@@ -4,7 +4,7 @@ This guide walks through the full deployment of the boutique e-commerce applicat
 
 ---
 
-## Table of Contents
+## Table of Content
 
 1. [Architecture Overview](#architecture-overview)
 2. [Local Development with Docker](#local-development-with-docker)
