@@ -9,7 +9,7 @@ Comprehensive database setup for a luxury fashion boutique e-commerce platform w
 - **Users & Profiles**: Customer authentication and extended profile management
 - **Products**: Luxury fashion items with detailed attributes
 - **Categories**: Hierarchical product organization
-- **Product Images**: Multiple images per product with primary designation
+- **Product Images**: ultiple images per product with primary designation
 - **Product Variants**: Size/color options with inventory tracking
 - **Orders & Order Items**: Complete order management system
 - **Product Reviews**: Customer ratings and feedback system
